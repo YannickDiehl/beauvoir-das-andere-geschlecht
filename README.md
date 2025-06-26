@@ -185,7 +185,6 @@ npm run format
 
 ### Besonderer Dank
 
-- **Universität Marburg** - LaG PoWi & Ethik, Praktische Philosophie 2
 - **Simone de Beauvoir Institut** - Inspirierung und wissenschaftliche Vorbilder
 - **Open Source Community** - Quartz, Obsidian und Markdown-Ökosystem
 
